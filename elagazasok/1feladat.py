@@ -1,3 +1,3 @@
-def elso():
-    str = input()
-    print(len(str))
+
+str = input()
+print(len(str))

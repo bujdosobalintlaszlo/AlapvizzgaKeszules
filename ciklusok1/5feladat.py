@@ -1,3 +1,5 @@
+'''
+en megoldasom
 def primeFact(n):
     tenyezok = []
     i = 2
@@ -18,3 +20,4 @@ primeFact(13)
 testCases=[16,4,8,13,360,52,43,892]
 for i in testCases:
     primeFact(i)
+'''
